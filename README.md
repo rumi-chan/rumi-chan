@@ -1,5 +1,5 @@
 ```console
-miyasaki@rumi:~$ wh1rly > README.md
+miyasaki@rumi:~$ rumi > README.md
 ```
 [![Discord Presence](https://lanyard.cnrad.dev/api/675265494097592320?theme=dark&bg=3A405A&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/675265494097592320)
 
