@@ -4,7 +4,7 @@ miyasaki@rumi:~$ rumi > README.md
 
 <p align="center">
 Visitors (Since 2023/10/31)<br>
-<img src="https://count.chiya.dev/get/@rumi-chan?theme=rule34" />
+<img src="https://count.getloli.com/get/@rumi-chan?theme=rule34" />
 </p>
 
 **About me**
