@@ -8,7 +8,7 @@ Visitors (Since 2023/10/31)<br>
 </p>
 
 **About me**
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rumi-chan&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rumi-chan&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
 - Student
 - Introverted
 - Front-End (a bit Back-End)
