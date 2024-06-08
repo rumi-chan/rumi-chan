@@ -26,3 +26,18 @@ Visitors (Since 2023/10/31)<br>
 - Discord
 - 📧 [miyasaki.rumi@gmail.com](mailto:miyasaki.rumi@gmail.com)
 - Facebook (If you can find)
+
+```math
+\mmlToken{ms}[fontfamily="
+goombafont;
+color:red;
+pointer-events:none;
+z-index: -11;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+width: 130vw;
+opacity: 0.5;
+background: url('https://i.imgur.com/3g9VLlg.jpg');
+"]{}
