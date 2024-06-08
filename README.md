@@ -39,5 +39,5 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://i.imgur.com/3g9VLlg.jpg');
+background: url('https://pbs.twimg.com/media/GJt4BOaW0AAmgDA?format=jpg');
 "]{}
