@@ -4,7 +4,7 @@ miyasaki@rumi:~$ rumi > README.md
 
 <p align="center">
 Visitors (Since 2024/06/08)<br>
-<img src="https://count.chiya.dev/get/@rumi-chan?theme=rule34" />
+<img src="https://count.getloli.com/@rumi-chan?name=rumi-chan&theme=capoo-2&padding=6&offset=0&align=top&scale=1&pixelated=0&darkmode=0" />
 </p>
 
 **About me**
