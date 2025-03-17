@@ -17,6 +17,6 @@ Visitors (Since 2024/06/08)<br>
 <br>
 
 **Contact me**
-<img align="right" src="https://lanyard.kyrie25.me/api/675265494097592320?useDisplayName=true&gradient=ffb3eb-ffc4f2-ffd5f8-ffe6ff" />
+<img align="right" src="https://lanyard.kyrie25.dev/api/675265494097592320?useDisplayName=true&gradient=ffb3eb-ffc4f2-ffd5f8-ffe6ff" />
 - Discord
 - 📧 [miyasaki.rumi@gmail.com](mailto:miyasaki.rumi@gmail.com)
